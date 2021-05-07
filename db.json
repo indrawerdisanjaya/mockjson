@@ -1,0 +1,14 @@
+{
+    "posts": [
+        { "id": 1, "title": "desert 1", "price": "Rp.10000" },
+        {"id":2, "title":"desert 2", "price":"Rp.20000"},
+        {"id":2, "title":"desert 3", "price":"Rp.30000"},
+        {"id":2, "title":"desert 4", "price":"Rp.40000"},
+        {"id":2, "title":"desert 5", "price":"Rp.50000"},
+        {"id":2, "title":"desert 6", "price":"Rp.60000"}
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
