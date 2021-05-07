@@ -3,9 +3,9 @@
         { "id": 1, "title": "Oreo Cheese Chake", "price": "Rp.10000", "image": "https://www.highheelsandgrills.com/wp-content/uploads/2015/03/Oreo-Cheesecakes-Bars.-This-is-my-new-favorite-dessert.-So-easy.-highheelsandgrills.com-update-square.jpg" },
         {"id":2, "title":"Tiramisu Dessert Box", "price":"Rp.15000", "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2020/02/29/1559661448.jpg"},
         {"id":3, "title":"Oregal Dessert Box", "price":"Rp.17000", "image": "https://cf.shopee.co.id/file/bb6ed7eaa88e012d284ed77030d59295"},
-        {"id":4, "title":"Pudding Oreo", "price":"Rp.11000", "image": "https://cf.shopee.co.id/file/402dfb48c5aa85f022f3c6db9c4d6af8"},
+        {"id":4, "title":"Dessert Pudding Oreo", "price":"Rp.11000", "image": "https://cf.shopee.co.id/file/402dfb48c5aa85f022f3c6db9c4d6af8"},
         {"id":5, "title":"Dessert Box Oreo", "price":"Rp.12000", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5eIGC_maWdgtFDIQ40Ccnk9K2jmiIo0OOjaaTTsyXe9SJqyx4dNZH8VlPYhEc0TrJzgE&usqp=CAU"},
-        {"id":6, "title":"Cheese Cake", "price":"Rp.14000", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeFbr5W1bAfdlPr0RldvARag5EeeBHdq5yxUTnLAdrcxImRs_D_0sITa_VSUX1WkMLdAU&usqp=CAU"}
+        {"id":6, "title":"Dessert Cheese Cake", "price":"Rp.14000", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeFbr5W1bAfdlPr0RldvARag5EeeBHdq5yxUTnLAdrcxImRs_D_0sITa_VSUX1WkMLdAU&usqp=CAU"}
     ],
     "comments": [
       { "id": 1, "body": "some comment", "postId": 1 }
