@@ -1,11 +1,11 @@
 {
     "posts": [
-        { "id": 1, "title": "desert 1", "price": "Rp.10000" },
-        {"id":2, "title":"desert 2", "price":"Rp.20000"},
-        {"id":2, "title":"desert 3", "price":"Rp.30000"},
-        {"id":2, "title":"desert 4", "price":"Rp.40000"},
-        {"id":2, "title":"desert 5", "price":"Rp.50000"},
-        {"id":2, "title":"desert 6", "price":"Rp.60000"}
+        { "id": 1, "title": "desert 1", "price": "Rp.10000", "image": "https://assets-pergikuliner.com/uploads/bootsy/image/18840/Bubble_Box__storie.id_.jpg" },
+        {"id":2, "title":"desert 2", "price":"Rp.20000", "image": "https://assets-pergikuliner.com/uploads/bootsy/image/18840/Bubble_Box__storie.id_.jpg"},
+        {"id":2, "title":"desert 3", "price":"Rp.30000", "image": "https://assets-pergikuliner.com/uploads/bootsy/image/18840/Bubble_Box__storie.id_.jpg"},
+        {"id":2, "title":"desert 4", "price":"Rp.40000", "image": "https://assets-pergikuliner.com/uploads/bootsy/image/18840/Bubble_Box__storie.id_.jpg"},
+        {"id":2, "title":"desert 5", "price":"Rp.50000", "image": "https://assets-pergikuliner.com/uploads/bootsy/image/18840/Bubble_Box__storie.id_.jpg"},
+        {"id":2, "title":"desert 6", "price":"Rp.60000", "image": "https://assets-pergikuliner.com/uploads/bootsy/image/18840/Bubble_Box__storie.id_.jpg"}
     ],
     "comments": [
       { "id": 1, "body": "some comment", "postId": 1 }
